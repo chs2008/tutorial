@@ -1,0 +1,14 @@
+.hero {
+    height: 100px;
+    margin: 20px;
+}
+
+.product {
+    border: 1px solid blue;
+    margin: 20px;
+    padding: 50px;
+}
+ 
+.product-container {
+    display: flex;
+}
